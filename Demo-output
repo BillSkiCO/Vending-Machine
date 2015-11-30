@@ -1,0 +1,361 @@
+Vending Machine Id = 0
+Number of nickles = 10; Number of dimes = 20; Number of quarters = 30
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 10
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+
+Vending Machine Id = 0
+Number of nickles = 10; Number of dimes = 20; Number of quarters = 30
+Number of customer nickles = 2; Number of customer dimes = 1; Number of customer quarters = 2
+Customer balance = 70
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 10
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+
+Vending Machine Id = 0
+Number of nickles = 12; Number of dimes = 21; Number of quarters = 32
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 20
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+
+Change returned (n, d, q) = 020
+Vending Machine Id = 0
+Number of nickles = 12; Number of dimes = 19; Number of quarters = 32
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+
+Change returned (n, d, q) = 121
+Vending Machine Id = 0
+Number of nickles = 12; Number of dimes = 19; Number of quarters = 32
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+
+Vending Machine Id = 0
+Number of nickles = 12; Number of dimes = 19; Number of quarters = 32
+Number of customer nickles = 3; Number of customer dimes = 3; Number of customer quarters = 7
+Customer balance = 220
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 10
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Vending Machine Id = 0
+Number of nickles = 15; Number of dimes = 22; Number of quarters = 39
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 70
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 10
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Change returned (n, d, q) = 022
+
+Vending Machine Id = 0
+Number of nickles = 15; Number of dimes = 20; Number of quarters = 37
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 0
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Vending Machine Id = 0
+Number of nickles = 15; Number of dimes = 20; Number of quarters = 37
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 5
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Vending Machine Id = 0
+Number of nickles = 0; Number of dimes = 0; Number of quarters = 0
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 5
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Vending Machine Id = 0
+Number of nickles = 0; Number of dimes = 0; Number of quarters = 0
+Number of customer nickles = 0; Number of customer dimes = 9; Number of customer quarters = 0
+Customer balance = 90
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 10
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 5
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Vending Machine Id = 0
+Number of nickles = 0; Number of dimes = 9; Number of quarters = 0
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 65
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 9
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 5
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+
+Change returned (n, d, q) = 060
+Vending Machine Id = 0
+Number of nickles = 0; Number of dimes = 3; Number of quarters = 0
+Number of customer nickles = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 5
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 10; Count = 10
+Item Id = 1; Cost = 50; Capacity = 10; Count = 10
+Item Id = 2; Cost = 75; Capacity = 10; Count = 10
+Item Id = 3; Cost = 25; Capacity = 10; Count = 9
+Item Id = 4; Cost = 50; Capacity = 10; Count = 10
+Item Id = 5; Cost = 75; Capacity = 10; Count = 10
+Item Id = 6; Cost = 25; Capacity = 10; Count = 10
+Item Id = 7; Cost = 50; Capacity = 10; Count = 7
+Item Id = 8; Cost = 75; Capacity = 10; Count = 5
+Item Id = 9; Cost = 25; Capacity = 10; Count = 10
+Item Id = 10; Cost = 50; Capacity = 10; Count = 10
+Item Id = 11; Cost = 75; Capacity = 10; Count = 10
+Item Id = 12; Cost = 25; Capacity = 10; Count = 10
+Item Id = 13; Cost = 50; Capacity = 10; Count = 9
+Item Id = 14; Cost = 75; Capacity = 10; Count = 10
+Item Id = 15; Cost = 25; Capacity = 10; Count = 10
+Item Id = 16; Cost = 50; Capacity = 10; Count = 10
+Item Id = 17; Cost = 75; Capacity = 10; Count = 10
+Item Id = 18; Cost = 25; Capacity = 10; Count = 10
+Item Id = 19; Cost = 50; Capacity = 10; Count = 10
+

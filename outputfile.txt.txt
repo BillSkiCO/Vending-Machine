@@ -1,0 +1,187 @@
+Dispense from slot -1: return value = -2
+Dispense from slot 0: return value = 0
+Dispense from slot 20: return value = -2
+Dispense from slot 21: return value = -2
+Dispense from slot 1: return value = 0
+The current state of vending machine Drinks is as follows
+Vending Machine Id = 0
+Numbers of nickels = 10; Number of dimes = 20; Number of quarters = 30
+Number of customer nickels = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 15; Count = 15
+Item Id = 1; Cost = 45; Capacity = 15; Count = 15
+Item Id = 2; Cost = 65; Capacity = 15; Count = 15
+Item Id = 3; Cost = 75; Capacity = 15; Count = 15
+Item Id = 4; Cost = 25; Capacity = 15; Count = 15
+Item Id = 5; Cost = 45; Capacity = 15; Count = 15
+Item Id = 6; Cost = 65; Capacity = 15; Count = 15
+Item Id = 7; Cost = 75; Capacity = 15; Count = 15
+Item Id = 8; Cost = 25; Capacity = 15; Count = 15
+Item Id = 9; Cost = 45; Capacity = 15; Count = 15
+Item Id = 10; Cost = 65; Capacity = 15; Count = 15
+Item Id = 11; Cost = 75; Capacity = 15; Count = 15
+Item Id = 12; Cost = 25; Capacity = 15; Count = 15
+Item Id = 13; Cost = 45; Capacity = 15; Count = 15
+Item Id = 14; Cost = 65; Capacity = 15; Count = 15
+Item Id = 15; Cost = 75; Capacity = 15; Count = 15
+Item Id = 16; Cost = 25; Capacity = 15; Count = 15
+Item Id = 17; Cost = 45; Capacity = 15; Count = 15
+Item Id = 18; Cost = 65; Capacity = 15; Count = 15
+Item Id = 19; Cost = 75; Capacity = 15; Count = 15
+
+
+Dispense from slot 13: return value = 1
+Dispense from slot 11: return value = 0
+Dispense from slot 4: return value = 1
+The current state of vending machine Drinks                             is as follows
+Vending Machine Id = 0
+Numbers of nickels = 13; Number of dimes = 21; Number of quarters = 32
+Number of customer nickels = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 5
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 15; Count = 15
+Item Id = 1; Cost = 45; Capacity = 15; Count = 15
+Item Id = 2; Cost = 65; Capacity = 15; Count = 15
+Item Id = 3; Cost = 75; Capacity = 15; Count = 15
+Item Id = 4; Cost = 25; Capacity = 15; Count = 14
+Item Id = 5; Cost = 45; Capacity = 15; Count = 15
+Item Id = 6; Cost = 65; Capacity = 15; Count = 15
+Item Id = 7; Cost = 75; Capacity = 15; Count = 15
+Item Id = 8; Cost = 25; Capacity = 15; Count = 15
+Item Id = 9; Cost = 45; Capacity = 15; Count = 15
+Item Id = 10; Cost = 65; Capacity = 15; Count = 15
+Item Id = 11; Cost = 75; Capacity = 15; Count = 15
+Item Id = 12; Cost = 25; Capacity = 15; Count = 15
+Item Id = 13; Cost = 45; Capacity = 15; Count = 14
+Item Id = 14; Cost = 65; Capacity = 15; Count = 15
+Item Id = 15; Cost = 75; Capacity = 15; Count = 15
+Item Id = 16; Cost = 25; Capacity = 15; Count = 15
+Item Id = 17; Cost = 45; Capacity = 15; Count = 15
+Item Id = 18; Cost = 65; Capacity = 15; Count = 15
+Item Id = 19; Cost = 75; Capacity = 15; Count = 15
+
+
+Current balance in the vending machine is = 1075
+Current customer balance is = 5
+
+Dispense from slot 10: return value = 0
+The current state of vending machine Drinks is as follows
+Vending Machine Id = 0
+Numbers of nickels = 13; Number of dimes = 21; Number of quarters = 32
+Number of customer nickels = 2; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 15
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 15; Count = 15
+Item Id = 1; Cost = 45; Capacity = 15; Count = 15
+Item Id = 2; Cost = 65; Capacity = 15; Count = 15
+Item Id = 3; Cost = 75; Capacity = 15; Count = 15
+Item Id = 4; Cost = 25; Capacity = 15; Count = 14
+Item Id = 5; Cost = 45; Capacity = 15; Count = 15
+Item Id = 6; Cost = 65; Capacity = 15; Count = 15
+Item Id = 7; Cost = 75; Capacity = 15; Count = 15
+Item Id = 8; Cost = 25; Capacity = 15; Count = 15
+Item Id = 9; Cost = 45; Capacity = 15; Count = 15
+Item Id = 10; Cost = 65; Capacity = 15; Count = 15
+Item Id = 11; Cost = 75; Capacity = 15; Count = 15
+Item Id = 12; Cost = 25; Capacity = 15; Count = 15
+Item Id = 13; Cost = 45; Capacity = 15; Count = 14
+Item Id = 14; Cost = 65; Capacity = 15; Count = 15
+Item Id = 15; Cost = 75; Capacity = 15; Count = 15
+Item Id = 16; Cost = 25; Capacity = 15; Count = 15
+Item Id = 17; Cost = 45; Capacity = 15; Count = 15
+Item Id = 18; Cost = 65; Capacity = 15; Count = 15
+Item Id = 19; Cost = 75; Capacity = 15; Count = 15
+
+
+Current balance in the vending machine is = 1085
+Current customer balance is = 15
+
+
+Change returned (n, d, q) = 200
+
+
+Change returned (n, d, q) = 220
+
+Dispense from slot 10: return value = -1
+Dispense from slot 12: return value = 1
+Dispense from slot 12: return value = 1
+Dispense from slot 13: return value = 1
+
+The current state of vending machine Drinks is as follows
+Vending Machine Id = 0
+Numbers of nickels = 14; Number of dimes = 29; Number of quarters = 41
+Number of customer nickels = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 215
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 15; Count = 15
+Item Id = 1; Cost = 45; Capacity = 15; Count = 15
+Item Id = 2; Cost = 65; Capacity = 15; Count = 15
+Item Id = 3; Cost = 75; Capacity = 15; Count = 15
+Item Id = 4; Cost = 25; Capacity = 15; Count = 14
+Item Id = 5; Cost = 45; Capacity = 15; Count = 15
+Item Id = 6; Cost = 65; Capacity = 15; Count = 15
+Item Id = 7; Cost = 75; Capacity = 15; Count = 15
+Item Id = 8; Cost = 25; Capacity = 15; Count = 15
+Item Id = 9; Cost = 45; Capacity = 15; Count = 15
+Item Id = 10; Cost = 65; Capacity = 15; Count = 0
+Item Id = 11; Cost = 75; Capacity = 15; Count = 15
+Item Id = 12; Cost = 25; Capacity = 15; Count = 2
+Item Id = 13; Cost = 45; Capacity = 15; Count = 13
+Item Id = 14; Cost = 65; Capacity = 15; Count = 15
+Item Id = 15; Cost = 75; Capacity = 15; Count = 15
+Item Id = 16; Cost = 25; Capacity = 15; Count = 15
+Item Id = 17; Cost = 45; Capacity = 15; Count = 15
+Item Id = 18; Cost = 65; Capacity = 15; Count = 15
+Item Id = 19; Cost = 75; Capacity = 15; Count = 15
+
+remove_item from slot -1: return value:-1
+remove_item from slot 0: return value:15
+remove_item from slot 20: return value:-1
+remove_item from slot 21: return value:-1
+remove_item from slot 10: return value:0
+
+Change returned (n, d, q) = 040
+
+
+Change returned (n, d, q) = 000
+
+Change returned (n, d, q) = 010
+Money owed to the customers is 5
+
+The current state of vending machine Drinks is as follows
+Vending Machine Id = 0
+Numbers of nickels = 0; Number of dimes = 8; Number of quarters = 0
+Number of customer nickels = 0; Number of customer dimes = 0; Number of customer quarters = 0
+Customer balance = 0
+Money owed = 0
+Number of slots = 20
+Item Id = 0; Cost = 25; Capacity = 15; Count = 0
+Item Id = 1; Cost = 45; Capacity = 15; Count = 15
+Item Id = 2; Cost = 65; Capacity = 15; Count = 15
+Item Id = 3; Cost = 75; Capacity = 15; Count = 14
+Item Id = 4; Cost = 25; Capacity = 15; Count = 14
+Item Id = 5; Cost = 45; Capacity = 15; Count = 15
+Item Id = 6; Cost = 65; Capacity = 15; Count = 15
+Item Id = 7; Cost = 75; Capacity = 15; Count = 15
+Item Id = 8; Cost = 25; Capacity = 15; Count = 15
+Item Id = 9; Cost = 45; Capacity = 15; Count = 15
+Item Id = 10; Cost = 65; Capacity = 15; Count = 0
+Item Id = 11; Cost = 75; Capacity = 15; Count = 15
+Item Id = 12; Cost = 25; Capacity = 15; Count = 2
+Item Id = 13; Cost = 45; Capacity = 15; Count = 13
+Item Id = 14; Cost = 65; Capacity = 15; Count = 15
+Item Id = 15; Cost = 75; Capacity = 15; Count = 15
+Item Id = 16; Cost = 25; Capacity = 15; Count = 15
+Item Id = 17; Cost = 45; Capacity = 15; Count = 15
+Item Id = 18; Cost = 65; Capacity = 15; Count = 15
+Item Id = 19; Cost = 75; Capacity = 15; Count = 15
+
+
+
+Process returned 0 (0x0)   execution time : 0.894 s
+Press any key to continue.
